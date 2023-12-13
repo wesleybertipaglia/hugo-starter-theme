@@ -7,4 +7,4 @@ author = 'Wesley Bertipaglia'
     name = 'Wesley Bertipaglia'
 
 [Theme]
-    favicon = 'static/icons/favicon.svg'
+    favicon = '/static/icons/favicon.svg'
