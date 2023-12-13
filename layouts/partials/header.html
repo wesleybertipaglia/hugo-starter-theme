@@ -1,0 +1,12 @@
+<!-- header -->
+<header>
+    <nav>
+        <ul>
+            <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+            
+            {{ range .Site.Sections }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+</header>

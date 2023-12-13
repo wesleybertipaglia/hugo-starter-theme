@@ -1,6 +1,9 @@
 ---
 title: "Sample Text"
-date: 2023-12-12T19:19:25-03:00
+date: 2023-12-12T21:28:47-03:00
+type: "post"
+author: "Wesley Bertipaglia"
+tags: ["post"]
 draft: true
 ---
 

@@ -1,0 +1,12 @@
+{{ define "main" }}
+    <article class="post">
+        <div>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} - {{ .FuzzyWordCount }} Words </div>
+        </div>
+        {{ .Summary }}
+        <div>
+        <a href='{{ .RelPermalink }}'>Read&nbsp;more&nbsp;&raquo;</a>
+        </div>
+    </article>
+{{ end }}
