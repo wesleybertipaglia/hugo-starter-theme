@@ -1,6 +1,6 @@
-# Hugo Starter Template
+# Hugo Starter Theme
 
-Welcome to the Hugo Starter Template! This template provides a simple and clean starting point for creating your Hugo-based website. It includes basic pages, a blog section, a projects section, and more—all without any predefined styles, making it ready for easy customization.
+Welcome to the Hugo Starter Theme! This template provides a simple and clean starting point for creating your Hugo-based website. It includes basic pages, a blog section, a projects section, and more—all without any predefined styles, making it ready for easy customization.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to the Hugo Starter Template! This template provides a simple and clean 
 
 ## Introduction
 
-This Hugo Starter Template is designed to help you kickstart your website development without being tied to a specific design. It sets up the essential structure and content sections so you can focus on customizing the look and feel according to your preferences.
+This Hugo Starter Theme is designed to help you kickstart your website development without being tied to a specific design. It sets up the essential structure and content sections so you can focus on customizing the look and feel according to your preferences.
 
 ## Features
 
@@ -24,12 +24,12 @@ This Hugo Starter Template is designed to help you kickstart your website develo
 
 ## Getting Started
 
-To get started with this Hugo Starter Template, follow these steps:
+To get started with this Hugo Starter Theme, follow these steps:
 
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/wesleybertipaglia/hugo-starter-theme.git
     ```
 
 2. Install Hugo (if not already installed):
@@ -45,7 +45,7 @@ To get started with this Hugo Starter Template, follow these steps:
 3. Navigate to the project directory:
 
     ```bash
-    cd hugo-starter-template
+    cd hugo-starter-theme
     ```
 
 4. Run the development server:
@@ -62,10 +62,10 @@ Feel free to customize the content, layout, and styling to suit your needs. Upda
 
 ## Folder Structure
 
-The basic folder structure of this template is as follows:
+The basic folder structure of this theme is as follows:
 
 ```plaintext
-/hugo-starter-template
+/hugo-starter-theme
 |-- /archetypes
 |-- /content
 |   |-- /about
